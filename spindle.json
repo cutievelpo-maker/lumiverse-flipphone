@@ -1,0 +1,10 @@
+{
+  "id": "y2k-pink-flipphone",
+  "name": "Y2K Pink Rhinestone Flip Phone",
+  "version": "1.0.0",
+  "description": "Interactive 3D pink rhinestone flip phone with real character texting",
+  "author": "Custom",
+  "frontend": "frontend.ts",
+  "backend": "backend.ts",
+  "permissions": ["llm"]
+}
